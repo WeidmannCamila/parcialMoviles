@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PARCIAL MOVILES</string>
+    <string name="nombre">Titulo *</string>
+    <string name="apellido">Descripción</string>
+    <string name="profesion">Correo de contacto</string>
+    <string name="email">Precio *</string>
+    <string name="disponible">Disponible</string>
+    <string name="publish">Publicar</string>
+
+
+</resources>
